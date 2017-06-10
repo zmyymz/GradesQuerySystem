@@ -1,0 +1,58 @@
+C:\Users\ThinkPad\Desktop\Demo\GDIPlusDemo\bin\Debug\GDIPlusDemo.exe
+C:\Users\ThinkPad\Desktop\Demo\GDIPlusDemo\bin\Debug\GDIPlusDemo.pdb
+C:\Users\ThinkPad\Desktop\Demo\GDIPlusDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ThinkPad\Desktop\Demo\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.Properties.Resources.resources
+C:\Users\ThinkPad\Desktop\Demo\GDIPlusDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ThinkPad\Desktop\Demo\GDIPlusDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ThinkPad\Desktop\Demo\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.exe
+C:\Users\ThinkPad\Desktop\Demo\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.pdb
+C:\Users\ThinkPad\Desktop\Demo\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.FormEx.resources
+C:\Users\ThinkPad\Desktop\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.exe
+C:\Users\ThinkPad\Desktop\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.pdb
+C:\Users\ThinkPad\Desktop\GDIPlusDemo\bin\Debug\GDIPlusDemo.exe
+C:\Users\ThinkPad\Desktop\GDIPlusDemo\bin\Debug\GDIPlusDemo.pdb
+C:\Users\ThinkPad\Desktop\GDIPlusDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ThinkPad\Desktop\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.FormEx.resources
+C:\Users\ThinkPad\Desktop\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.Properties.Resources.resources
+C:\Users\ThinkPad\Desktop\GDIPlusDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ThinkPad\Desktop\GDIPlusDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\学员文档\NET 方面\C#自定义窗体美化\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.exe
+E:\学员文档\NET 方面\C#自定义窗体美化\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.pdb
+E:\学员文档\NET 方面\C#自定义窗体美化\GDIPlusDemo\bin\Debug\GDIPlusDemo.exe
+E:\学员文档\NET 方面\C#自定义窗体美化\GDIPlusDemo\bin\Debug\GDIPlusDemo.pdb
+E:\学员文档\NET 方面\C#自定义窗体美化\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.csprojResolveAssemblyReference.cache
+E:\学员文档\NET 方面\C#自定义窗体美化\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.FormEx.resources
+E:\学员文档\NET 方面\C#自定义窗体美化\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.Properties.Resources.resources
+E:\学员文档\NET 方面\C#自定义窗体美化\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.csproj.GenerateResource.Cache
+E:\知识架构图\开发-语言类\C#\Windows窗体应用程序\C#自定义窗体美化\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.exe
+E:\知识架构图\开发-语言类\C#\Windows窗体应用程序\C#自定义窗体美化\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.pdb
+E:\知识架构图\开发-语言类\C#\Windows窗体应用程序\C#自定义窗体美化\GDIPlusDemo\bin\Debug\GDIPlusDemo.exe
+E:\知识架构图\开发-语言类\C#\Windows窗体应用程序\C#自定义窗体美化\GDIPlusDemo\bin\Debug\GDIPlusDemo.pdb
+E:\知识架构图\开发-语言类\C#\Windows窗体应用程序\C#自定义窗体美化\GDIPlusDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\知识架构图\开发-语言类\C#\Windows窗体应用程序\C#自定义窗体美化\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.FormEx.resources
+E:\知识架构图\开发-语言类\C#\Windows窗体应用程序\C#自定义窗体美化\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.Properties.Resources.resources
+E:\知识架构图\开发-语言类\C#\Windows窗体应用程序\C#自定义窗体美化\GDIPlusDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\知识架构图\开发-语言类\C#\Windows窗体应用程序\C#自定义窗体美化\GDIPlusDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\c#\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.exe
+D:\c#\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.pdb
+D:\c#\GDIPlusDemo\bin\Debug\GDIPlusDemo.exe
+D:\c#\GDIPlusDemo\bin\Debug\GDIPlusDemo.pdb
+D:\c#\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.csprojResolveAssemblyReference.cache
+D:\c#\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.FormEx.resources
+D:\c#\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.Properties.Resources.resources
+D:\c#\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.csproj.GenerateResource.Cache
+D:\C sharp\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.exe
+D:\C sharp\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.pdb
+D:\C sharp\GDIPlusDemo\bin\Debug\GDIPlusDemo.exe
+D:\C sharp\GDIPlusDemo\bin\Debug\GDIPlusDemo.pdb
+D:\C sharp\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.csprojResolveAssemblyReference.cache
+D:\C sharp\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.FormEx.resources
+D:\C sharp\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.Properties.Resources.resources
+D:\C sharp\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.csproj.GenerateResource.Cache
+D:\C sharp\GDIPlusDemo\bin\Debug\mysql.data.dll
+D:\C sharp\GDIPlusDemo\bin\Debug\mysql.data.entity.dll
+D:\C sharp\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.search.resources
+D:\C sharp\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.showgrade.resources
+D:\C sharp\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.Form1.resources
+D:\C sharp\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.Form2.resources
+D:\C sharp\GDIPlusDemo\obj\x86\Debug\GDIPlusDemo.FormBase.resources
